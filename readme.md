@@ -3,3 +3,5 @@
 
 ## Examples
 * Pandas資料清理重塑過濾視覺化_旗標, Ch12
+* test1
+* test2
